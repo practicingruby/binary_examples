@@ -1,4 +1,6 @@
 # example code for my youtube video on binary file formats: 
+# http://www.youtube.com/watch?v=BLnOD1qC-Vo
+#
 # see also: https://github.com/sandal/prawn/blob/master/lib/prawn/images/png.rb
 #
 # Written by Gregory Brown, licensed under WTFPL.
