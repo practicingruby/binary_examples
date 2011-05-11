@@ -1,3 +1,10 @@
+# example code for my youtube video on binary file formats: 
+# see also: https://github.com/sandal/prawn/blob/master/lib/prawn/images/png.rb
+#
+# Written by Gregory Brown, licensed under WTFPL.
+# If you found this helpful, please consider supporting my full time work for
+# the Ruby community at: http://tinyurl.com/support-ruby-mendicant
+#
 class PNG
   SIGNATURE    = "\x89PNG\r\n\x1A\n"
   IHDR_LENGTH  = 13
